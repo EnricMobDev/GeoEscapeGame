@@ -1,120 +1,108 @@
 [ 
  {
    "id": "E621E1F8-C36C-495A-93FC-0C247A3E6E5F",
-   "game": [
+   "games": [
       {
-         "number_of_chest,": 1,
-         "chest_description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
+         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
             "latitude": 41.454977,
             "longitude": 2.251939
          },
-         "next_chest_to_show": [2]
+         "next_chest_to_show": [1]
       },
       {
-         "number_of_chest,": 2,
-         "chest_description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
+         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
             "latitude": 41.455229,
             "longitude": 2.252655
          },
-         "next_chest_to_show": [3, 4]
+         "next_chest_to_show": [2, 3]
       },
       {
-         "number_of_chest,": 3,
-         "chest_description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
+         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
             "latitude": 41.455435,
             "longitude": 2.252926
          },
-         "next_chest_to_show": [3, 4]
+         "next_chest_to_show": [2, 3]
       },
       {
-         "number_of_chest,": 4,
-         "chest_description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
+         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
             "latitude": 41.455821,
             "longitude": 2.252985
          },
-         "next_chest_to_show": [5]
+         "next_chest_to_show": [4]
       },
       {
-         "number_of_chest,": 5,
-         "chest_description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
+         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
             "latitude": 41.456138,
             "longitude": 2.253522
          },
-         "next_chest_to_show": [6, 7]
+         "next_chest_to_show": [5, 6]
       },
       {
-         "number_of_chest,": 6,
-         "chest_description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
+         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
             "latitude": 41.455491,
             "longitude": 2.252225
          },
-         "next_chest_to_show": [6, 7]
+         "next_chest_to_show": [5, 6]
       },
       {
-         "number_of_chest,": 7,
-         "chest_description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
+         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
             "latitude": 41.456050,
             "longitude": 2.252551
          },
-         "next_chest_to_show": [8]
+         "next_chest_to_show": [7]
       },
       {
-         "number_of_chest,": 8,
-         "chest_description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
+         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
             "latitude": 41.455825,
             "longitude": 2.252119
          },
-         "next_chest_to_show": [9]
+         "next_chest_to_show": [8]
       },
       {
-         "number_of_chest,": 9,
-         "chest_description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
+         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
             "latitude": 41.456779,
             "longitude": 2.253143
          },
-         "next_chest_to_show": [10]
+         "next_chest_to_show": [9]
       },
       {
-         "number_of_chest,": 10,
-         "chest_description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
+         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
             "latitude": 41.457719,
             "longitude": 2.252217
          },
-         "next_chest_to_show": [11]
+         "next_chest_to_show": [10]
       },
       {
-         "number_of_chest,": 11,
-         "chest_description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
+         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
             "latitude": 41.457771,
             "longitude": 2.251679
          },
-         "next_chest_to_show": [12]
+         "next_chest_to_show": [11]
       },
       {
-         "number_of_chest,": 12,
-         "chest_description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
+         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
             "latitude": 41.456979,
