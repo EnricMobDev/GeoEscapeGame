@@ -3,7 +3,7 @@
    "id": "E621E1F8-C36C-495A-93FC-0C247A3E6E5F",
    "games": [
       {
-         "id" 0,  
+         "id": 0,  
          "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
@@ -13,7 +13,7 @@
          "next_chest_to_show": [1]
       },
       {
-         "id" 1,
+         "id": 1,
          "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
@@ -23,7 +23,7 @@
          "next_chest_to_show": [2, 3]
       },
       {
-         "id" 2,
+         "id": 2,
          "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
@@ -33,7 +33,7 @@
          "next_chest_to_show": [2, 3]
       },
       {
-         "id" 3,
+         "id": 3,
          "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
@@ -43,7 +43,7 @@
          "next_chest_to_show": [4]
       },
       {
-         "id" 4,
+         "id": 4,
          "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
@@ -53,7 +53,7 @@
          "next_chest_to_show": [5, 6]
       },
       {
-         "id" 5,
+         "id": 5,
          "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
@@ -63,7 +63,7 @@
          "next_chest_to_show": [5, 6]
       },
       {
-         "id" 6,
+         "id": 6,
          "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
@@ -73,7 +73,7 @@
          "next_chest_to_show": [7]
       },
       {
-         "id" 7,
+         "id": 7,
          "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
@@ -83,7 +83,7 @@
          "next_chest_to_show": [8]
       },
       {
-         "id" 8,
+         "id": 8,
          "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
@@ -93,7 +93,7 @@
          "next_chest_to_show": [9]
       },
       {
-         "id" 9,
+         "id": 9,
          "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
@@ -103,7 +103,7 @@
          "next_chest_to_show": [10]
       },
       {
-         "id" 10,
+         "id": 10,
          "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
@@ -113,7 +113,7 @@
          "next_chest_to_show": [11]
       },
       {
-         "id" 11,
+         "id": 11,
          "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
          "hint": "observa bien todos los lados del edificio",
          "location": {
