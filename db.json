@@ -1,6 +1,7 @@
 {
-   "game_id": "E621E1F8-C36C-495A-93FC-0C247A3E6E5F",
-   "chests": [
+   "game": {
+      "game_id": "E621E1F8-C36C-495A-93FC-0C247A3E6E5F",
+      "chests": [
       {
          "id": 0,  
          "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
@@ -122,4 +123,5 @@
          "next_chest_to_show": []
       }
    ]
+   }
 }
