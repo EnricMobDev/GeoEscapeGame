@@ -4,8 +4,8 @@
       "chests": [
       {
          "id": 0,  
-         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
-         "hint": "observa bien todos los lados del edificio",
+         "description": "Decidimos armarnos de valor y avanzar hasta el lugar de donde venían los gritos, parecían de una mujer joven. De repente, bajamos la mirada al suelo y vimos unas marcas extrañas en la arena, parecía como si hubieran arrastrado algo pesado hasta llegar a un punto donde la marca curiosamente empezaba a dar vueltas en círculos y finalmente desaparecía.",
+         "hint": "Desde el centro del coliseo verás las imperfecciones de las columnas.",
          "location": {
             "latitude": 41.454977,
             "longitude": 2.251939
@@ -14,8 +14,8 @@
       },
       {
          "id": 1,
-         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
-         "hint": "observa bien todos los lados del edificio",
+         "description": "Ahora teníamos delante tres posibles caminos a elegir, sin saber cuál de ellos sería el correcto, hasta que vimos unas gotas de sangre adentrarse en uno de ellos. ¿Alguien habría resultado herido? El rastro no duró mucho tiempo, al parecer se limpió la sangre de alguna manera, ya que las manchas empezaron a difuminarse hasta desaparecer por completo.",
+         "hint": "etiam aspiciens ad fontem.",
          "location": {
             "latitude": 41.455229,
             "longitude": 2.252655
@@ -24,8 +24,8 @@
       },
       {
          "id": 2,
-         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
-         "hint": "observa bien todos los lados del edificio",
+         "description": "¿Qué es aquello? ¿Habéis visto esas hojas moverse? Alguien se estaba camuflando detrás de esas hojas, decidimos apresurarnos con cuidado ya que no sabíamos lo que nos podríamos encontrar.",
+         "hint": "Está escondida entre las serpientes de madera.",
          "location": {
             "latitude": 41.455435,
             "longitude": 2.252926
@@ -34,8 +34,8 @@
       },
       {
          "id": 3,
-         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
-         "hint": "observa bien todos los lados del edificio",
+         "description": "Escuchamos unas risas a lo lejos mientras una voz temblorosa gritaba: ¡Por favor! ¡Déjame! ¡Por favor! Avanzamos unidos siendo cada vez más complicado ya que a medida que pasaba el tiempo todo era mucho más oscuro y aterrador. Nos asustamos cuando de repente sentimos que algo se movía justo al lado nuestro, dimos todos un bote al unísono. No era nada, una simple piedra que se había desprendido de la pared y que bajó rodando por un caminito de tierra, tengo que reconocer que todos teníamos los nervios a flor de piel.",
+         "hint": "Con un poco de imaginación, unas escaleras naturales son.",
          "location": {
             "latitude": 41.455821,
             "longitude": 2.252985
@@ -44,8 +44,8 @@
       },
       {
          "id": 4,
-         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
-         "hint": "observa bien todos los lados del edificio",
+         "description": "¿Y ahora qué hacemos? ¿Alguien ha visto algo? ¿Qué camino debemos seguir? Nos encontrábamos en una encrucijada:  diferentes caminos y ninguna pista, no teníamos ni idea de hacia donde habían ido. Espera.. ¿Qué le pasa a esa piedra? Parece diferente a la demás.",
+         "hint": "...eveum es salle ed anu euq eceraP ?nieb odajif sah eT¿",
          "location": {
             "latitude": 41.456138,
             "longitude": 2.253522
@@ -54,8 +54,8 @@
       },
       {
          "id": 5,
-         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
-         "hint": "observa bien todos los lados del edificio",
+         "description": "Habían subido la rampa, ¡Nos habían visto! Y estaban intentando volver a salir del parque. ¿Veis aquella marca? Parece que alguien se había agarrado con fuerza.",
+         "hint": "Un ciego nunca te dirá el color pero la usará para subir y bajar.",
          "location": {
             "latitude": 41.455491,
             "longitude": 2.252225
@@ -64,8 +64,8 @@
       },
       {
          "id": 6,
-         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
-         "hint": "observa bien todos los lados del edificio",
+         "description": "De repente se escuchó un fuerte ruido metálico, era la puerta de entrada del parque, si así es, se había cerrado. El vigilante del parque cerró la puerta por la que habíamos entrado, ahora sí que estábamos atrapados. Decidimos dar un rodeo ya que no teníamos escapatoria.",
+         "hint": "…-/ ./ ...///.-../ .-/ ...///.- - ./ ../ .-./ .-/ - -/ ../ -../ ./ .../",
          "location": {
             "latitude": 41.456050,
             "longitude": 2.252551
@@ -74,8 +74,8 @@
       },
       {
          "id": 7,
-         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
-         "hint": "observa bien todos los lados del edificio",
+         "description": "Justo había alguien encima nuestro, no nos vio pero estaba en el mirador buscando una posible salida ya que el vigilante estaba cerrando todas las puertas del parque. Echamos a correr escaleras arriba en su busca, pero cuando llegamos se había esfumado.",
+         "hint": "2/22/20/3/1///5/14///5/12///13/9/19/1/4/16/19",
          "location": {
             "latitude": 41.455825,
             "longitude": 2.252119
@@ -84,8 +84,8 @@
       },
       {
          "id": 8,
-         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
-         "hint": "observa bien todos los lados del edificio",
+         "description": "Apenas veíamos un parque infantil, pero hacía allí no había salida así que dimos media vuelta y nos apresuramos en dirección opuesta. Vimos a lo lejos una persona toda de negro, con ropa de deporte y capucha con lo que nos fue imposble identificarla. ¿Que hacía? Llevaba una botella y desde la lejanía, nos dio la impresión de que quería llenarla de agua. En el momento que nos vio, arrancó a correr, hasta que lo perdimos de vista.",
+         "hint": "ParEce QUE aÑorabA Esa Silueta más ConocidA como eL InfierNo de lAs Torres dragonAs.",
          "location": {
             "latitude": 41.456779,
             "longitude": 2.253143
@@ -94,8 +94,8 @@
       },
       {
          "id": 9,
-         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
-         "hint": "observa bien todos los lados del edificio",
+         "description": "Llegamos a una zona que daba mucho yuyu, había un lago junto a un castillo y la niebla que se empezaba a generar creaba un ambiente espeluznante. Nosotros estábamos muertos de miedo, pero seguíamos escuchando gritos de auxilio a lo lejos. Alguien nos estaba vigilando, pudimos ver al otro lado del lago como una persona nos estaba mirando detenidamente.",
+         "hint": "Gracias a ello no hay que nadar, pero por contra hay que subir y bajar.",
          "location": {
             "latitude": 41.457719,
             "longitude": 2.252217
@@ -104,8 +104,8 @@
       },
       {
          "id": 10,
-         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
-         "hint": "observa bien todos los lados del edificio",
+         "description": "Llegamos a una especie de callejón sin salida, encontramos una puerta que no podíamos abrir, cuando de repente volvimos a oír un llanto a lo lejos. Nos apresuramos porque sentíamos que estábamos muy cerca, ya casi lo teníamos.",
+         "hint": "Los cocodrilos tendrán que esquivar, para a la princesa poder rescatar.",
          "location": {
             "latitude": 41.457771,
             "longitude": 2.251679
@@ -114,8 +114,8 @@
       },
       {
          "id": 11,
-         "description": "Un hombre de unos 55 años entra en el bar y de repente, se ha pegado un tiro?",
-         "hint": "observa bien todos los lados del edificio",
+         "description": "No podíamos más, entre la tensión y que ya había anochecido, no nos quedaban fuerzas. De repente, me apoyé en la pared y sin darme cuenta, pude ver el exterior del parque desde un agujero. Cuando estaba mirando a través de el, me sorprendí muchísimo porque al otro lado del muro, estaba esa persona que estábamos buscando. Aquel chico que iba de negro era un runner al que se le había hecho de noche y no encontraba la salida, igual que nosotros. ¿Pero y todos los gritos y llantos que habíamos oído? Fue en ese momento cuando escuchamos de nuevo aquel grito pidiendo ¡SOCORRO! Miramos hacia los árboles y vimos que era un Yaco. Sí, habéis oído bien. ¡Había sido un loro! Nos había estado tomando el pelo todo este tiempo imitando sonidos ¡No nos lo podíamos creer!",
+         "hint": "ellos de agujeros la atentamente último el verás secreto. pared contiene uno piedra Mira de en ",
          "location": {
             "latitude": 41.456979,
             "longitude": 2.252022
