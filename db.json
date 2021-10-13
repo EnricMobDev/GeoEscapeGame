@@ -3,107 +3,107 @@
       "id": "E621E1F8-C36C-495A-93FC-0C247A3E6E5F",
       "chests": [
       {
-         "id": 0,  
+         "id": "d8cb0a36-baf6-44b8-97c8-4c268471f786",  
          "description": "Decidimos armarnos de valor y avanzar hasta el lugar de donde venían los gritos, parecían de una mujer joven. De repente, bajamos la mirada al suelo y vimos unas marcas extrañas en la arena, parecía como si hubieran arrastrado algo pesado hasta llegar a un punto donde la marca curiosamente empezaba a dar vueltas en círculos y finalmente desaparecía.",
          "hint": "Desde el centro del coliseo verás las imperfecciones de las columnas.",
          "location": {
             "latitude": 41.454977,
             "longitude": 2.251939
          },
-         "next_chest_to_show": [1]
+         "next_chest_to_show": ["72d3463d-64a3-488b-a0fe-47eb3c5fc601"]
       },
       {
-         "id": 1,
+         "id": "72d3463d-64a3-488b-a0fe-47eb3c5fc601",
          "description": "Ahora teníamos delante tres posibles caminos a elegir, sin saber cuál de ellos sería el correcto, hasta que vimos unas gotas de sangre adentrarse en uno de ellos. ¿Alguien habría resultado herido? El rastro no duró mucho tiempo, al parecer se limpió la sangre de alguna manera, ya que las manchas empezaron a difuminarse hasta desaparecer por completo.",
          "hint": "etiam aspiciens ad fontem.",
          "location": {
             "latitude": 41.455229,
             "longitude": 2.252655
          },
-         "next_chest_to_show": [2, 3]
+         "next_chest_to_show": ["5963bab0-ffbe-4622-a88c-80a17a0d6a4e", "4e9a5f33-ab2a-4058-8da4-6f8ef570b06d"]
       },
       {
-         "id": 2,
+         "id": "5963bab0-ffbe-4622-a88c-80a17a0d6a4e",
          "description": "¿Qué es aquello? ¿Habéis visto esas hojas moverse? Alguien se estaba camuflando detrás de esas hojas, decidimos apresurarnos con cuidado ya que no sabíamos lo que nos podríamos encontrar.",
          "hint": "Está escondida entre las serpientes de madera.",
          "location": {
             "latitude": 41.455435,
             "longitude": 2.252926
          },
-         "next_chest_to_show": [2, 3]
+         "next_chest_to_show": ["5963bab0-ffbe-4622-a88c-80a17a0d6a4e", "4e9a5f33-ab2a-4058-8da4-6f8ef570b06d"]
       },
       {
-         "id": 3,
+         "id": "4e9a5f33-ab2a-4058-8da4-6f8ef570b06d",
          "description": "Escuchamos unas risas a lo lejos mientras una voz temblorosa gritaba: ¡Por favor! ¡Déjame! ¡Por favor! Avanzamos unidos siendo cada vez más complicado ya que a medida que pasaba el tiempo todo era mucho más oscuro y aterrador. Nos asustamos cuando de repente sentimos que algo se movía justo al lado nuestro, dimos todos un bote al unísono. No era nada, una simple piedra que se había desprendido de la pared y que bajó rodando por un caminito de tierra, tengo que reconocer que todos teníamos los nervios a flor de piel.",
          "hint": "Con un poco de imaginación, unas escaleras naturales son.",
          "location": {
             "latitude": 41.455821,
             "longitude": 2.252985
          },
-         "next_chest_to_show": [4]
+         "next_chest_to_show": ["a6fed070-55b2-4b9d-b303-42da60b3bae6"]
       },
       {
-         "id": 4,
+         "id": "a6fed070-55b2-4b9d-b303-42da60b3bae6",
          "description": "¿Y ahora qué hacemos? ¿Alguien ha visto algo? ¿Qué camino debemos seguir? Nos encontrábamos en una encrucijada:  diferentes caminos y ninguna pista, no teníamos ni idea de hacia donde habían ido. Espera.. ¿Qué le pasa a esa piedra? Parece diferente a la demás.",
          "hint": "...eveum es salle ed anu euq eceraP ?nieb odajif sah eT¿",
          "location": {
             "latitude": 41.456138,
             "longitude": 2.253522
          },
-         "next_chest_to_show": [5]
+         "next_chest_to_show": ["1f61f83b-1c0c-4e6b-bb35-3ba942f40810"]
       },
       {
-         "id": 5,
+         "id": "1f61f83b-1c0c-4e6b-bb35-3ba942f40810",
          "description": "Al subir vimos que había gente jugando a básquet como si nada, nos preguntamos si éramos los únicos que nos habíamos dado cuenta de lo sucedido cuando de repente vimos a alguien esconderse detrás de aquella casa. ¿Ahora que hacemos? ¿Nos acercamos? Nos armamos de valentía y decidimos apresurarnos, al doblar la esquina ya no había nadie, buscamos por la pared a ver si veíamos alguna pista.",
          "hint": "…-/ ./ .../                .-../ .-/ .../                 .- - ./ ../ .-./ .-/ - -/ ../ -../ ./ .../",
          "location": {
             "latitude": 41.456050,
             "longitude": 2.252551
          },
-         "next_chest_to_show": [6]
+         "next_chest_to_show": ["38e815f9-8834-493a-983b-f3069509e908"]
       },
       {
-         "id": 6,
+         "id": "38e815f9-8834-493a-983b-f3069509e908",
          "description": "Justo había alguien encima nuestro, no nos vio pero estaba en el mirador buscando una posible salida ya que el vigilante estaba cerrando todas las puertas del parque. Echamos a correr escaleras arriba en su busca, pero cuando llegamos se había esfumado.",
          "hint": "2/22/20/3/1///5/14///5/12///13/9/19/1/4/16/19",
          "location": {
             "latitude": 41.455825,
             "longitude": 2.252119
          },
-         "next_chest_to_show": [7]
+         "next_chest_to_show": ["e396be21-67c9-4aa1-beae-182db367d07d"]
       },
       {
-         "id": 7,
+         "id": "e396be21-67c9-4aa1-beae-182db367d07d",
          "description": "Apenas veíamos un parque infantil, pero hacía allí no había salida así que dimos media vuelta y nos apresuramos en dirección opuesta. Vimos a lo lejos una persona toda de negro, con ropa de deporte y capucha con lo que nos fue imposble identificarla. ¿Que hacía? Llevaba una botella y desde la lejanía, nos dio la impresión de que quería llenarla de agua. En el momento que nos vio, arrancó a correr, hasta que lo perdimos de vista.",
          "hint": "ParEce QUE aÑorabA Esa Silueta más ConocidA como eL InfierNo de lAs Torres dragonAs.",
          "location": {
             "latitude": 41.456779,
             "longitude": 2.253143
          },
-         "next_chest_to_show": [8]
+         "next_chest_to_show": ["8ab2fa60-83b5-44a1-a2f4-f4b2b6da50ea"]
       },
       {
-         "id": 8,
+         "id": "8ab2fa60-83b5-44a1-a2f4-f4b2b6da50ea",
          "description": "Llegamos a una zona que daba mucho yuyu, había un lago junto a un castillo y la niebla que se empezaba a generar creaba un ambiente espeluznante. Nosotros estábamos muertos de miedo, pero seguíamos escuchando gritos de auxilio a lo lejos. Alguien nos estaba vigilando, pudimos ver al otro lado del lago como una persona nos estaba mirando detenidamente.",
          "hint": "Gracias a ello no hay que nadar, pero por contra hay que subir y bajar.",
          "location": {
             "latitude": 41.457719,
             "longitude": 2.252217
          },
-         "next_chest_to_show": [9]
+         "next_chest_to_show": ["43d66139-a9d9-4b95-8ad0-509d070eb392"]
       },
       {
-         "id": 9,
+         "id": "43d66139-a9d9-4b95-8ad0-509d070eb392",
          "description": "Llegamos a una especie de callejón sin salida, encontramos una puerta que no podíamos abrir, cuando de repente volvimos a oír un llanto a lo lejos. Nos apresuramos porque sentíamos que estábamos muy cerca, ya casi lo teníamos.",
          "hint": "Los cocodrilos tendrán que esquivar, para a la princesa poder rescatar.",
          "location": {
             "latitude": 41.457771,
             "longitude": 2.251679
          },
-         "next_chest_to_show": [10]
+         "next_chest_to_show": ["679b7d81-e1c1-4dfc-97fb-8c81683f1048"]
       },
       {
-         "id": 10,
+         "id": "679b7d81-e1c1-4dfc-97fb-8c81683f1048",
          "description": "No podíamos más, entre la tensión y que ya había anochecido, no nos quedaban fuerzas. De repente, me apoyé en la pared y sin darme cuenta, pude ver el exterior del parque desde un agujero. Cuando estaba mirando a través de el, me sorprendí muchísimo porque al otro lado del muro, estaba esa persona que estábamos buscando. Aquel chico que iba de negro era un runner al que se le había hecho de noche y no encontraba la salida, igual que nosotros. ¿Pero y todos los gritos y llantos que habíamos oído? Fue en ese momento cuando escuchamos de nuevo aquel grito pidiendo ¡SOCORRO! Miramos hacia los árboles y vimos que era un Yaco. Sí, habéis oído bien. ¡Había sido un loro! Nos había estado tomando el pelo todo este tiempo imitando sonidos ¡No nos lo podíamos creer!",
          "hint": "ellos de agujeros la atentamente último el verás secreto. pared contiene uno piedra Mira de en ",
          "location": {
