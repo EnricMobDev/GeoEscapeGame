@@ -10,7 +10,8 @@
             "latitude": 41.454977,
             "longitude": 2.251939
          },
-         "next_chest_to_show": ["72d3463d-64a3-488b-a0fe-47eb3c5fc601"]
+         "next_chest_to_show": ["72d3463d-64a3-488b-a0fe-47eb3c5fc601"],
+         "is_required": "true"
       },
       {
          "id": "72d3463d-64a3-488b-a0fe-47eb3c5fc601",
@@ -20,7 +21,8 @@
             "latitude": 41.455229,
             "longitude": 2.252655
          },
-         "next_chest_to_show": ["5963bab0-ffbe-4622-a88c-80a17a0d6a4e", "4e9a5f33-ab2a-4058-8da4-6f8ef570b06d"]
+         "next_chest_to_show": ["5963bab0-ffbe-4622-a88c-80a17a0d6a4e", "4e9a5f33-ab2a-4058-8da4-6f8ef570b06d"],
+         "is_required": "true"
       },
       {
          "id": "5963bab0-ffbe-4622-a88c-80a17a0d6a4e",
@@ -30,7 +32,8 @@
             "latitude": 41.455435,
             "longitude": 2.252926
          },
-         "next_chest_to_show": ["5963bab0-ffbe-4622-a88c-80a17a0d6a4e", "4e9a5f33-ab2a-4058-8da4-6f8ef570b06d"]
+         "next_chest_to_show": ["5963bab0-ffbe-4622-a88c-80a17a0d6a4e", "4e9a5f33-ab2a-4058-8da4-6f8ef570b06d"],
+         "is_required": "false"
       },
       {
          "id": "4e9a5f33-ab2a-4058-8da4-6f8ef570b06d",
@@ -40,7 +43,8 @@
             "latitude": 41.455821,
             "longitude": 2.252985
          },
-         "next_chest_to_show": ["a6fed070-55b2-4b9d-b303-42da60b3bae6"]
+         "next_chest_to_show": ["a6fed070-55b2-4b9d-b303-42da60b3bae6"],
+         "is_required": "true"
       },
       {
          "id": "a6fed070-55b2-4b9d-b303-42da60b3bae6",
@@ -50,7 +54,8 @@
             "latitude": 41.456138,
             "longitude": 2.253522
          },
-         "next_chest_to_show": ["1f61f83b-1c0c-4e6b-bb35-3ba942f40810"]
+         "next_chest_to_show": ["1f61f83b-1c0c-4e6b-bb35-3ba942f40810"],
+         "is_required": "true"
       },
       {
          "id": "1f61f83b-1c0c-4e6b-bb35-3ba942f40810",
@@ -60,7 +65,8 @@
             "latitude": 41.456050,
             "longitude": 2.252551
          },
-         "next_chest_to_show": ["38e815f9-8834-493a-983b-f3069509e908"]
+         "next_chest_to_show": ["38e815f9-8834-493a-983b-f3069509e908"],
+         "is_required": "true"
       },
       {
          "id": "38e815f9-8834-493a-983b-f3069509e908",
@@ -70,7 +76,8 @@
             "latitude": 41.455825,
             "longitude": 2.252119
          },
-         "next_chest_to_show": ["e396be21-67c9-4aa1-beae-182db367d07d"]
+         "next_chest_to_show": ["e396be21-67c9-4aa1-beae-182db367d07d"],
+         "is_required": "true"
       },
       {
          "id": "e396be21-67c9-4aa1-beae-182db367d07d",
@@ -80,7 +87,8 @@
             "latitude": 41.456779,
             "longitude": 2.253143
          },
-         "next_chest_to_show": ["8ab2fa60-83b5-44a1-a2f4-f4b2b6da50ea"]
+         "next_chest_to_show": ["8ab2fa60-83b5-44a1-a2f4-f4b2b6da50ea"],
+         "is_required": "true"
       },
       {
          "id": "8ab2fa60-83b5-44a1-a2f4-f4b2b6da50ea",
@@ -90,7 +98,8 @@
             "latitude": 41.457719,
             "longitude": 2.252217
          },
-         "next_chest_to_show": ["43d66139-a9d9-4b95-8ad0-509d070eb392"]
+         "next_chest_to_show": ["43d66139-a9d9-4b95-8ad0-509d070eb392"],
+         "is_required": "true"
       },
       {
          "id": "43d66139-a9d9-4b95-8ad0-509d070eb392",
@@ -100,7 +109,8 @@
             "latitude": 41.457771,
             "longitude": 2.251679
          },
-         "next_chest_to_show": ["679b7d81-e1c1-4dfc-97fb-8c81683f1048"]
+         "next_chest_to_show": ["679b7d81-e1c1-4dfc-97fb-8c81683f1048"],
+         "is_required": "true"
       },
       {
          "id": "679b7d81-e1c1-4dfc-97fb-8c81683f1048",
@@ -110,8 +120,10 @@
             "latitude": 41.456979,
             "longitude": 2.252022
          },
-         "next_chest_to_show": []
+         "next_chest_to_show": [],
+         "is_required": "true"
       }
-   ]
+     ],
+     "final_meessage": "La verdadera historia habla de la antigua casa de Ca L’Arnus que había sido en el siglo XVII un antiguo hospital de guerra y contaba que muchas noches se podían escuchar los gritos de las personas que se encontraban allí e incluso se podían ver en las noches de niebla sombras de algunos de los enfermos caminar por sus jardines ataviados con las botellas de suero colgando."
    }
 }
