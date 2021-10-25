@@ -1,6 +1,7 @@
 {
    "game": {
       "id": "E621E1F8-C36C-495A-93FC-0C247A3E6E5F",
+      "final_message": "La verdadera historia habla de la antigua casa de Ca L’Arnus que había sido en el siglo XVII un antiguo hospital de guerra y contaba que muchas noches se podían escuchar los gritos de las personas que se encontraban allí e incluso se podían ver en las noches de niebla sombras de algunos de los enfermos caminar por sus jardines ataviados con las botellas de suero colgando.",
       "chests": [
       {
          "id": "d8cb0a36-baf6-44b8-97c8-4c268471f786",  
@@ -120,7 +121,6 @@
          "next_chest_to_show": [],
          "is_required": "true"
       }
-     ],
-     "final_message": "La verdadera historia habla de la antigua casa de Ca L’Arnus que había sido en el siglo XVII un antiguo hospital de guerra y contaba que muchas noches se podían escuchar los gritos de las personas que se encontraban allí e incluso se podían ver en las noches de niebla sombras de algunos de los enfermos caminar por sus jardines ataviados con las botellas de suero colgando."
+     ]
    }
 }
