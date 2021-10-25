@@ -26,8 +26,7 @@
       },
       {
          "id": "5963bab0-ffbe-4622-a88c-80a17a0d6a4e",
-         "description": "¿Qué es aquello? ¿Habéis visto esas hojas moverse? Alguien se estaba camuflando detrás de esas hojas, decidimos apresurarnos con cuidado ya que no sabíamos lo que nos podríamos encontrar.",
-         "hint": "Está escondida entre las serpientes de madera.",
+         "description": "-¿Qué es aquello? ¿Habéis visto esas hojas moverse? Alguien se estaba camuflando detrás de esas hojas. Decidimos apresurarnos con cuidado ya que no sabíamos lo que nos podríamos encontrar.",
          "location": {
             "latitude": 41.455435,
             "longitude": 2.252926
@@ -37,8 +36,7 @@
       },
       {
          "id": "4e9a5f33-ab2a-4058-8da4-6f8ef570b06d",
-         "description": "Escuchamos unas risas a lo lejos mientras una voz temblorosa gritaba: ¡Por favor! ¡Déjame! ¡Por favor! Avanzamos unidos siendo cada vez más complicado ya que a medida que pasaba el tiempo todo era mucho más oscuro y aterrador. Nos asustamos cuando de repente sentimos que algo se movía justo al lado nuestro, dimos todos un bote al unísono. No era nada, una simple piedra que se había desprendido de la pared y que bajó rodando por un caminito de tierra, tengo que reconocer que todos teníamos los nervios a flor de piel.",
-         "hint": "Con un poco de imaginación, unas escaleras naturales son.",
+         "description": "Escuchamos unas risas a lo lejos mientras una voz temblorosa gritaba: -¡Por favor! ¡Déjame! ¡Por favor! Avanzamos unidos siendo cada vez más complicado, ya que a medida que pasaba el tiempo todo era mucho más oscuro y aterrador. Nos asustamos cuando de repente sentimos que algo se movía justo al lado nuestro, dimos todos un bote al unísono. No era nada, una simple piedra que se había desprendido de la pared y que bajó rodando por un caminito de tierra. Tengo que reconocer que todos teníamos los nervios a flor de piel.",
          "location": {
             "latitude": 41.455821,
             "longitude": 2.252985
@@ -48,8 +46,7 @@
       },
       {
          "id": "a6fed070-55b2-4b9d-b303-42da60b3bae6",
-         "description": "¿Y ahora qué hacemos? ¿Alguien ha visto algo? ¿Qué camino debemos seguir? Nos encontrábamos en una encrucijada:  diferentes caminos y ninguna pista, no teníamos ni idea de hacia donde habían ido. Espera.. ¿Qué le pasa a esa piedra? Parece diferente a la demás.",
-         "hint": "...eveum es salle ed anu euq eceraP ?nieb odajif sah eT¿",
+         "description": "-¿Y ahora qué hacemos? ¿Alguien ha visto algo? ¿Qué camino debemos seguir? Nos encontrábamos en una encrucijada:  diferentes caminos y ninguna pista, no teníamos ni idea de hacia donde habían ido. -Espera.. ¿Qué le pasa a esa piedra? Parece diferente a las demás.",
          "location": {
             "latitude": 41.456138,
             "longitude": 2.253522
@@ -59,7 +56,7 @@
       },
       {
          "id": "1f61f83b-1c0c-4e6b-bb35-3ba942f40810",
-         "description": "Al subir vimos que había gente jugando a básquet como si nada, nos preguntamos si éramos los únicos que nos habíamos dado cuenta de lo sucedido cuando de repente vimos a alguien esconderse detrás de aquella casa. ¿Ahora que hacemos? ¿Nos acercamos? Nos armamos de valentía y decidimos apresurarnos, al doblar la esquina ya no había nadie, buscamos por la pared a ver si veíamos alguna pista.",
+         "description": "Al subir vimos que había gente jugando a básquet como si nada, nos preguntamos si éramos los únicos que nos habíamos dado cuenta de lo sucedido cuando de repente vimos a alguien esconderse detrás de aquella casa. -¿Ahora qué hacemos? ¿Nos acercamos? Nos armamos de valentía y decidimos apresurarnos. Al doblar la esquina ya no había nadie, buscamos por la pared a ver si veíamos alguna pista.",
          "hint": "…-/ ./ .../                .-../ .-/ .../                 .- - ./ ../ .-./ .-/ - -/ ../ -../ ./ .../",
          "location": {
             "latitude": 41.456050,
