@@ -8,8 +8,8 @@
          "description": "Decidimos armarnos de valor y avanzar hasta el lugar de donde venían los gritos, parecían de una mujer joven. De repente, bajamos la mirada al suelo y vimos unas marcas extrañas en la arena, parecía como si hubieran arrastrado algo pesado hasta llegar a un punto donde la marca curiosamente empezaba a dar vueltas en círculos y finalmente desaparecía.",
          "hint": "Desde el centro del coliseo verás las imperfecciones de las columnas.",
          "location": {
-            "latitude": 41.454977,
-            "longitude": 2.251939
+            "latitude": 41.4548679,
+            "longitude": 2.2519656
          },
          "next_chest_to_show": ["72d3463d-64a3-488b-a0fe-47eb3c5fc601"],
          "is_required": true
@@ -19,8 +19,8 @@
          "description": "Ahora teníamos delante tres posibles caminos a elegir, sin saber cuál de ellos sería el correcto, hasta que vimos unas gotas de sangre adentrarse en uno de ellos. ¿Alguien habría resultado herido? El rastro no duró mucho tiempo, al parecer se limpió la sangre de alguna manera, ya que las manchas empezaron a difuminarse hasta desaparecer por completo.",
          "hint": "etiam aspiciens ad fontem.",
          "location": {
-            "latitude": 41.455229,
-            "longitude": 2.252655
+            "latitude": 41.4551976,
+            "longitude": 2.2527914
          },
          "next_chest_to_show": ["5963bab0-ffbe-4622-a88c-80a17a0d6a4e", "4e9a5f33-ab2a-4058-8da4-6f8ef570b06d"],
          "is_required": true
@@ -30,8 +30,8 @@
          "description": "-¿Qué es aquello? ¿Habéis visto esas hojas moverse? Alguien se estaba camuflando detrás de esas hojas. Decidimos apresurarnos con cuidado ya que no sabíamos lo que nos podríamos encontrar.",
          "hint": "Está escondida entre las serpientes de madera.",
          "location": {
-            "latitude": 41.455435,
-            "longitude": 2.252926
+            "latitude": 41.4554125,
+            "longitude": 2.2529392
          },
          "next_chest_to_show": ["5963bab0-ffbe-4622-a88c-80a17a0d6a4e", "4e9a5f33-ab2a-4058-8da4-6f8ef570b06d"],
          "is_required": false
@@ -41,8 +41,8 @@
          "description": "Escuchamos unas risas a lo lejos mientras una voz temblorosa gritaba: -¡Por favor! ¡Déjame! ¡Por favor! Avanzamos unidos siendo cada vez más complicado, ya que a medida que pasaba el tiempo todo era mucho más oscuro y aterrador. Nos asustamos cuando de repente sentimos que algo se movía justo al lado nuestro, dimos todos un bote al unísono. No era nada, una simple piedra que se había desprendido de la pared y que bajó rodando por un caminito de tierra. Tengo que reconocer que todos teníamos los nervios a flor de piel.",
          "hint": "Con un poco de imaginación, unas escaleras naturales son.",
          "location": {
-            "latitude": 41.455821,
-            "longitude": 2.252985
+            "latitude": 41.4557560,
+            "longitude": 2.2528390
          },
          "next_chest_to_show": ["a6fed070-55b2-4b9d-b303-42da60b3bae6"],
          "is_required": true
@@ -52,8 +52,8 @@
          "description": "-¿Y ahora qué hacemos? ¿Alguien ha visto algo? ¿Qué camino debemos seguir? Nos encontrábamos en una encrucijada:  diferentes caminos y ninguna pista, no teníamos ni idea de hacia donde habían ido. -Espera.. ¿Qué le pasa a esa piedra? Parece diferente a las demás.",
          "hint": "...eveum es salle ed anu euq eceraP ?nieb odajif sah eT¿",
          "location": {
-            "latitude": 41.456138,
-            "longitude": 2.253522
+            "latitude": 41.4561294,
+            "longitude": 2.2534787
          },
          "next_chest_to_show": ["1f61f83b-1c0c-4e6b-bb35-3ba942f40810"],
          "is_required": true
@@ -63,8 +63,8 @@
          "description": "Al subir vimos que había gente jugando a básquet como si nada, nos preguntamos si éramos los únicos que nos habíamos dado cuenta de lo sucedido cuando de repente vimos a alguien esconderse detrás de aquella casa. -¿Ahora qué hacemos? ¿Nos acercamos? Nos armamos de valentía y decidimos apresurarnos. Al doblar la esquina ya no había nadie, buscamos por la pared a ver si veíamos alguna pista.",
          "hint": "…-/ ./ .../ ---> .-../ .-/ .../ ---> .--./ ../ .-./ .-/ --/ ../ -../ ./ .../",
          "location": {
-            "latitude": 41.456050,
-            "longitude": 2.252551
+            "latitude": 41.4560404,
+            "longitude": 2.2526207
          },
          "next_chest_to_show": ["38e815f9-8834-493a-983b-f3069509e908"],
          "is_required": true
@@ -74,8 +74,8 @@
          "description": "Justo había alguien encima nuestro, no nos vio pero estaba en el mirador buscando una posible salida ya que el vigilante estaba cerrando todas las puertas del parque. Echamos a correr escaleras arriba en su busca, pero cuando llegamos se había esfumado.",
          "hint": "2/22/20/3/1/   5/14/   5/12/     13/9/19/1/4/16/19",
          "location": {
-            "latitude": 41.455825,
-            "longitude": 2.252119
+            "latitude": 41.4556341,
+            "longitude": 2.2520471
          },
          "next_chest_to_show": ["e396be21-67c9-4aa1-beae-182db367d07d"],
          "is_required": true
@@ -85,8 +85,8 @@
          "description": "Apenas veíamos un parque infantil, pero hacía allí no había salida así que dimos media vuelta y nos apresuramos en dirección opuesta. Vimos a lo lejos una persona toda de negro, con ropa de deporte y capucha con lo que nos fue imposble identificarla. ¿Que hacía? Llevaba una botella y desde la lejanía, nos dio la impresión de que quería llenarla de agua. En el momento que nos vio, arrancó a correr, hasta que lo perdimos de vista.",
          "hint": "ParEce QUE aÑorabA Esa Silueta más ConocidA como eL InfierNo de lAs Torres dragonAs.",
          "location": {
-            "latitude": 41.456779,
-            "longitude": 2.253143
+            "latitude": 41.4567754,
+            "longitude": 2.2531578
          },
          "next_chest_to_show": ["8ab2fa60-83b5-44a1-a2f4-f4b2b6da50ea"],
          "is_required": true
@@ -96,8 +96,8 @@
          "description": "Llegamos a una zona que daba mucho yuyu, había un lago junto a un castillo y la niebla que se empezaba a generar creaba un ambiente espeluznante. Nosotros estábamos muertos de miedo, pero seguíamos escuchando gritos de auxilio a lo lejos. Alguien nos estaba vigilando, pudimos ver al otro lado del lago como una persona nos estaba mirando detenidamente.",
          "hint": "Gracias a ello no hay que nadar, pero por contra hay que subir y bajar.",
          "location": {
-            "latitude": 41.457719,
-            "longitude": 2.252217
+            "latitude": 41.4576101,
+            "longitude": 2.2521671
          },
          "next_chest_to_show": ["43d66139-a9d9-4b95-8ad0-509d070eb392"],
          "is_required": true
@@ -107,8 +107,8 @@
          "description": "Llegamos a una especie de callejón sin salida, encontramos una puerta que no podíamos abrir, cuando de repente volvimos a oír un llanto a lo lejos. Nos apresuramos porque sentíamos que estábamos muy cerca, ya casi lo teníamos.",
          "hint": "Los cocodrilos tendrán que esquivar, para a la princesa poder rescatar.",
          "location": {
-            "latitude": 41.457771,
-            "longitude": 2.251679
+            "latitude": 41.4577418,
+            "longitude": 2.2518026
          },
          "next_chest_to_show": ["679b7d81-e1c1-4dfc-97fb-8c81683f1048"],
          "is_required": true
@@ -118,8 +118,8 @@
          "description": "No podíamos más, entre la tensión y que ya había anochecido, no nos quedaban fuerzas. De repente, me apoyé en la pared y sin darme cuenta, pude ver el exterior del parque desde un agujero. Cuando estaba mirando a través de el, me sorprendí muchísimo porque al otro lado del muro, estaba esa persona que estábamos buscando. Aquel chico que iba de negro era un runner al que se le había hecho de noche y no encontraba la salida, igual que nosotros. ¿Pero y todos los gritos y llantos que habíamos oído?",
          "hint": "hay Mira parece atentamente rosca? aquel que agujuero, un tapón con",
          "location": {
-            "latitude": 41.456979,
-            "longitude": 2.252022
+            "latitude": 41.4570980,
+            "longitude": 2.2519096
          },
          "next_chest_to_show": [],
          "is_required": true
